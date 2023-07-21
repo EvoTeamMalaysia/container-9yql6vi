@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "EvoTeamMalaysia",
+  "repo": "container-9yql6vi",
+  "name": "EvoTeamMalaysia",
+  "email": "shawnchongjunzhi@gmail.com",
+}
